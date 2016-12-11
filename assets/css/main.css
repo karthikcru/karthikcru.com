@@ -197,7 +197,7 @@
 
 	h1 {
 		font-size: 1.85em;
-		letter-spacing: 0.22em;
+		letter-spacing: 0.12em;
 		margin: 0 0 0.525em 0;
 	}
 
@@ -495,7 +495,7 @@
 		}
 
 			ul.alt li {
-				border-top: solid 1px #c8cccf;
+				border-top: solid 1px #313f47;
 				padding: 0.5em 0;
 			}
 
@@ -523,7 +523,7 @@
 					width: 3.75em;
 					height: 3.75em;
 					border-radius: 100%;
-					border: solid 1px #c8cccf;
+					border: solid 1px #313f47;
 					line-height: 3.75em;
 					overflow: hidden;
 					text-align: center;
@@ -541,7 +541,7 @@
 					}
 
 					ul.icons li a:before {
-						color: #ffffff;
+						color: #656b6f;
 						text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf;
 					}
 
@@ -702,8 +702,8 @@
 
 	#main {
 		position: relative;
-		max-width: 100%;
-		/*min-width: 27em;*/
+		/*max-width: 100%;*/
+		min-width: 90%;
 		padding: 2em 3em 1em 3em ;
 		background: #ffffff;
 		border-radius: 4px;
@@ -735,8 +735,6 @@
 				display: block;
 				margin: 0 auto;
 				border-radius: 100%;
-				height: 50%;
-				width: 50%;
 				box-shadow: 0 0 0 0.5em #ffffff;
 			}
 
