@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RSVP</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      padding: 2rem;
+      display: flex;
+      justify-content: center;
+    }
+    form {
+      background: white;
+      padding: 2rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      max-width: 500px;
+      width: 100%;
+    }
+    h2 {
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+    label {
+      display: block;
+      margin-top: 1rem;
+    }
+    input, select, textarea {
+      width: 100%;
+      padding: 0.5rem;
+      margin-top: 0.5rem;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    button {
+      margin-top: 1.5rem;
+      background-color: #4CAF50;
+      color: white;
+      padding: 0.75rem;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      width: 100%;
+    }
+    .hidden {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <form id="rsvpForm">
+    <h2>Birthday Party RSVP</h2>
+
+    <label for="name">Family / Group Name</label>
+    <input type="text" id="name" name="name" required />
+
+    <label for="attendance">Will you attend?</label>
+    <select id="attendance" name="attendance" required>
+      <option value="">-- Select --</option>
+      <option value="Yes">Yes</option>
+      <option value="No">No</option>
+      <option value="Maybe">Maybe</option>
+    </select>
+
+    <div id="countDiv" class="hidden">
+      <label for="count">How many are attending?</label>
+      <input type="number" id="count" name="count" min="1" />
+    </div>
+
+    <label for="note">Any note?</label>
+    <textarea id="note" name="note" rows="3"></textarea>
+
+    <input type="hidden" id="code" name="code" />
+
+    <button type="submit">Submit RSVP</button>
+    <p id="statusMsg"></p>
+  </form>
+
+  <script src="rsvp_submit.js"></script>
+</body>
+</html>
