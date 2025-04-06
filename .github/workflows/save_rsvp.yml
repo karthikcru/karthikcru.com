@@ -1,0 +1,55 @@
+name: Save RSVP
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [submit-rsvp]
+
+jobs:
+  save:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Parse RSVP payload and save to JSON
+        run: |
+          echo "Payload received: ${{ toJson(github.event.client_payload) }}"
+
+          RSVP_FILE="data/responses.json"
+          CODES_FILE="invite_codes.json"
+
+          mkdir -p data
+          if [ ! -f "$RSVP_FILE" ]; then
+            echo "[]" > $RSVP_FILE
+          fi
+
+          node -e "
+          const fs = require('fs');
+          const path = '$RSVP_FILE';
+          const codes = require('./$CODES_FILE');
+          const payload = ${{ toJson(github.event.client_payload) }};
+          const invite = codes.find(c => c.code === payload.code);
+          if (!invite) {
+            throw new Error('Invalid invite code.');
+          }
+
+          const data = JSON.parse(fs.readFileSync(path));
+          const updated = data.filter(e => e.code !== payload.code);
+          updated.push(payload);
+
+          fs.writeFileSync(path, JSON.stringify(updated, null, 2));
+          "
+
+      - name: Commit and push RSVP
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/responses.json
+          git commit -m "Add/update RSVP from ${{ github.event.client_payload.name }}"
+          git push
