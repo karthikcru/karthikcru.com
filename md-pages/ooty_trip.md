@@ -1,112 +1,136 @@
-# 🌄 7-Day Ooty – Bandipur Family Road Trip Planner (Dec 6–14, 2025)
+Let's reorder the Ooty segment as requested:
+
+* Move the Toy Train experience from Day 6 to Day 7 (so it's not on a travel day).
+* Swap Day 6 and Day 7 for smoother pacing.
 
 ---
 
-## 🗺️ Short Itinerary Overview
-
-| Day | Date       | Base       | Key Activities                                                            | Overnight Stay                 |
-| --- | ---------- | ---------- | ------------------------------------------------------------------------- | ------------------------------ |
-| 1   | Sat 6 Dec  | Coimbatore | Drive from Chennai • Check-in • Light Shopping                            | FabExpress Maruthi, Coimbatore |
-| 2   | Sun 7 Dec  | Ooty       | Marudamalai Temple • Scenic Drive to Ooty • Doddabetta Peak • Tea Factory | Accord Highland Ooty           |
-| 3   | Mon 8 Dec  | Ooty       | Glenmorgan • Wenlock Downs • Pykara Lake • Needle Rock Viewpoint          | Accord Highland Ooty           |
-| 4   | Tue 9 Dec  | Masinagudi | Forest Drive via Gudalur • Theppakadu Safari                              | The Nest Inn Resort            |
-| 5   | Wed 10 Dec | Masinagudi | Bandipur Morning Safari • Gopalaswamy Betta Hill                          | The Nest Inn Resort            |
-| 6   | Thu 11 Dec | Ooty       | Scenic Drive Back • Toy Train Ooty–Coonoor–Ooty                           | Ooty (TBD)                     |
-| 7   | Fri 12 Dec | Ooty       | Avalanche & Emerald Lakes • Glenmorgan Picnic                             | Ooty (TBD)                     |
-| 8   | Sat 13 Dec | Ooty       | Shopping • Botanical Garden • Rest • Pack-up                              | Ooty (TBD)                     |
-| 9   | Sun 14 Dec | —          | Drive back to Chennai                                                     | —                              |
-
-➡️ **Click here to jump to detailed version:** [Full Day-by-Day Itinerary](#full-detailed-itinerary)
+Here’s your **updated super-detailed Ooty–Bandipur itinerary (Dec 6–14, 2025)** in table format, with corrected map links, adjusted sightseeing order (9th Mile added, Needle Rock moved), and verified location URLs.
 
 ---
 
-## 📍 Glossary of Locations with Google Map Links
+## 🗓️ Day 1 – Sat, 6 Dec 2025 — Chennai → Coimbatore
 
-> **Note:** I replaced the shortened `goo.gl` links with direct Google Maps search links (these are stable and open reliably). Click any link to open the place in Google Maps.
-
-### 🏨 Hotels
-
-* **FabExpress Maruthi, Coimbatore:** [https://www.google.com/maps/search/?api=1&query=FabExpress+Maruthi+Coimbatore](https://www.google.com/maps/search/?api=1&query=FabExpress+Maruthi+Coimbatore)
-* **Accord Highland Ooty:** [https://www.google.com/maps/search/?api=1&query=Accord+Highland+Ooty](https://www.google.com/maps/search/?api=1&query=Accord+Highland+Ooty)
-* **The Nest Inn Resort, Masinagudi:** [https://www.google.com/maps/search/?api=1&query=The+Nest+Inn+Resort+Masinagudi](https://www.google.com/maps/search/?api=1&query=The+Nest+Inn+Resort+Masinagudi)
-
-### 🛕 Temples
-
-* **Marudamalai Temple, Coimbatore:** [https://www.google.com/maps/search/?api=1&query=Marudamalai+Temple+Coimbatore](https://www.google.com/maps/search/?api=1&query=Marudamalai+Temple+Coimbatore)
-
-### 🌄 Ooty & Around
-
-* **Doddabetta Peak:** [https://www.google.com/maps/search/?api=1&query=Doddabetta+Peak+Ooty](https://www.google.com/maps/search/?api=1&query=Doddabetta+Peak+Ooty)
-* **Tea Factory & Chocolate Museum:** [https://www.google.com/maps/search/?api=1&query=Tea+Factory+Chocolate+Museum+Ooty](https://www.google.com/maps/search/?api=1&query=Tea+Factory+Chocolate+Museum+Ooty)
-* **Glenmorgan Tea Estate:** [https://www.google.com/maps/search/?api=1&query=Glenmorgan+Tea+Estate+Ooty](https://www.google.com/maps/search/?api=1&query=Glenmorgan+Tea+Estate+Ooty)
-* **Wenlock Downs / Shooting Point:** [https://www.google.com/maps/search/?api=1&query=Wenlock+Downs+Ooty](https://www.google.com/maps/search/?api=1&query=Wenlock+Downs+Ooty)
-* **Pykara Lake:** [https://www.google.com/maps/search/?api=1&query=Pykara+Lake+Ooty](https://www.google.com/maps/search/?api=1&query=Pykara+Lake+Ooty)
-* **Needle Rock Viewpoint:** [https://www.google.com/maps/search/?api=1&query=Needle+Rock+Viewpoint+Ooty](https://www.google.com/maps/search/?api=1&query=Needle+Rock+Viewpoint+Ooty)
-* **Botanical Garden:** [https://www.google.com/maps/search/?api=1&query=Government+Botanical+Garden+Ooty](https://www.google.com/maps/search/?api=1&query=Government+Botanical+Garden+Ooty)
-* **Ooty Boat House:** [https://www.google.com/maps/search/?api=1&query=Ooty+Boat+House](https://www.google.com/maps/search/?api=1&query=Ooty+Boat+House)
-
-### 🌿 Bandipur / Mudumalai
-
-* **Mudumalai Theppakadu Safari Reception:** [https://www.google.com/maps/search/?api=1&query=Theppakadu+Reception+Mudumalai](https://www.google.com/maps/search/?api=1&query=Theppakadu+Reception+Mudumalai)
-* **Bandipur Safari Reception Centre:** [https://www.google.com/maps/search/?api=1&query=Bandipur+Safari+Reception+Centre](https://www.google.com/maps/search/?api=1&query=Bandipur+Safari+Reception+Centre)
-* **Himavad Gopalaswamy Betta:** [https://www.google.com/maps/search/?api=1&query=Himavad+Gopalaswamy+Betta](https://www.google.com/maps/search/?api=1&query=Himavad+Gopalaswamy+Betta)
-
-### 🚂 Coonoor
-
-* **Ooty Railway Station:** [https://www.google.com/maps/search/?api=1&query=Ooty+Railway+Station](https://www.google.com/maps/search/?api=1&query=Ooty+Railway+Station)
-* **Coonoor Railway Station:** [https://www.google.com/maps/search/?api=1&query=Coonoor+Railway+Station](https://www.google.com/maps/search/?api=1&query=Coonoor+Railway+Station)
-* **Sim’s Park:** [https://www.google.com/maps/search/?api=1&query=Sims+Park+Coonoor](https://www.google.com/maps/search/?api=1&query=Sims+Park+Coonoor)
-* **Dolphin’s Nose:** [https://www.google.com/maps/search/?api=1&query=Dolphins+Nose+Coonoor](https://www.google.com/maps/search/?api=1&query=Dolphins+Nose+Coonoor)
-* **La Belle Vie (Restaurant):** [https://www.google.com/maps/search/?api=1&query=La+Belle+Vie+Coonoor](https://www.google.com/maps/search/?api=1&query=La+Belle+Vie+Coonoor)
-* **The Culinarium (Restaurant):** [https://www.google.com/maps/search/?api=1&query=The+Culinarium+Coonoor](https://www.google.com/maps/search/?api=1&query=The+Culinarium+Coonoor)
-
-### 💧 Avalanche / Emerald
-
-* **Avalanche Lake Forest Check Post:** [https://www.google.com/maps/search/?api=1&query=Avalanche+Lake+Check+Post+Ooty](https://www.google.com/maps/search/?api=1&query=Avalanche+Lake+Check+Post+Ooty)
-* **Emerald Lake:** [https://www.google.com/maps/search/?api=1&query=Emerald+Lake+Ooty](https://www.google.com/maps/search/?api=1&query=Emerald+Lake+Ooty)
-* **Red Hills Nature Resort:** [https://www.google.com/maps/search/?api=1&query=Red+Hills+Nature+Resort+Ooty](https://www.google.com/maps/search/?api=1&query=Red+Hills+Nature+Resort+Ooty)
-* **Destiny Farm Stay:** [https://www.google.com/maps/search/?api=1&query=Destiny+Farm+Stay+Ooty](https://www.google.com/maps/search/?api=1&query=Destiny+Farm+Stay+Ooty)
+| Time     | Activity              | Location                                                                                                                                                                                                                                                                                                                                                | Notes                                               | If Missed        |
+| -------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ---------------- |
+| 5:30 AM  | Start from Chennai    | —                                                                                                                                                                                                                                                                                                                                                       | 10–11 hr drive; breakfast en route near Krishnagiri | ❌                |
+| 9:00 AM  | Breakfast             | A2B, Krishnagiri                                                                                                                                                                                                                                                                                                                                        | Clean restrooms & child-friendly                    | ✅ (next town)    |
+| 12:30 PM | Lunch break           | Salem bypass                                                                                                                                                                                                                                                                                                                                            | Keep light food for baby                            | ✅                |
+| 3:30 PM  | Enter Coimbatore city | —                                                                                                                                                                                                                                                                                                                                                       | Possible traffic near Gandhipuram                   | —                |
+| 4:00 PM  | Check-in              | [FabHotel Maruthi Residency, Coimbatore](https://www.google.com/maps/place/FabHotel+Maruthi+Residency/@11.011627,76.9754618,14z/data=!4m10!1m2!2m1!1sFabExpress+Maruthi+Coimbatore!3m6!1s0x3ba85951fb691ec1:0x1fdd0f77a0b7fd52!8m2!3d11.020264!4d77.0009037!15sCh1GYWJFeHByZXNzIE1hcnV0aGkgQ29pbWJhdG9yZZIBBWhvdGVs4AEA!16s%2Fg%2F11vssfn_tt?entry=ttu) | Rest & freshen up                                   | —                |
+| 5:00 PM  | Light shopping        | Brookefields Mall                                                                                                                                                                                                                                                                                                                                       | Optional stroll & snacks                            | ✅ (after dinner) |
+| 7:30 PM  | Dinner                | Annapoorna / Junior Kuppanna                                                                                                                                                                                                                                                                                                                            | Early rest for tomorrow’s drive                     | ✅                |
 
 ---
 
-## 🌄 Full Detailed Itinerary (with Location Links)
+## 🗓️ Day 2 – Sun, 7 Dec 2025 — Coimbatore → Ooty (via Marudamalai)
 
-### 🗓️ Day 1 – Sat, 6 Dec 2025 — Arrival at [Coimbatore](https://goo.gl/maps/2Jf3VzGx6Z62)
+| Time     | Activity                       | Location                                                                                                                                                                                                                                                           | Notes                     | If Missed |
+| -------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- | --------- |
+| 8:00 AM  | Breakfast                      | Hotel restaurant                                                                                                                                                                                                                                                   | Check-out after breakfast | ✅         |
+| 8:30 AM  | Visit Marudamalai Temple       | [Arulmigu Marudamalai Subramaniaswamy Temple](https://www.google.com/maps/place/Arulmigu+Marudamalai+Subramaniaswamy+Temple/@11.04482,76.8556336,17z/data=!4m6!3m5!1s0x3ba85f853e01b50b:0xcbc9bcc157065c67!8m2!3d11.046568!4d76.8517068!16zL20vMDk3bWRt?entry=ttu) | 1–1.5 hrs darshan         | ❌         |
+| 10:30 AM | Start drive to Ooty            | NH181 via Mettupalayam–Coonoor                                                                                                                                                                                                                                     | ~3.5 hrs                  | ❌         |
+| 1:45 PM  | Arrive & Check-in              | [Accord Highland Ooty](https://www.google.com/maps/place/Accord+Highland+Ooty/@11.4181647,76.7267646,17z/data=!3m1!4b1!4m9!3m8!1s0x3ba8bde23b068253:0xa0c4b4497e958cee!5m2!4m1!1i2!8m2!3d11.4181647!4d76.7316355!16s%2Fg%2F11xfpqbp3?entry=ttu)                    | Lunch & rest              | —         |
+| 4:00 PM  | Visit Doddabetta Peak          | [Doddabetta Peak](https://www.google.com/maps/search/?api=1&query=Doddabetta+Peak+Ooty)                                                                                                                                                                            | 20 min drive              | ✅ (Day 7) |
+| 5:15 PM  | Tea Factory & Chocolate Museum | [Chocolate Museum, Ooty](https://www.google.com/maps/place/Chocolate+Museum/@11.427849,76.6537849,13.83z/data=!4m6!3m5!1s0x3ba8bd13f29dad97:0x53dd5873d79aba66!8m2!3d11.4263339!4d76.6708722!16s%2Fg%2F11cn92ccjx?entry=ttu)                                       | Quick visit & tasting     | ✅ (Day 7) |
+| 7:00 PM  | Dinner & relax                 | Hotel restaurant                                                                                                                                                                                                                                                   | Early bedtime             | ✅         |
 
-* Drive from Chennai → Coimbatore (10–11 hrs / 550 km)
-* Stay: [FabExpress Maruthi, Coimbatore](https://goo.gl/maps/2Jf3VzGx6Z62)
-* Optional: Shopping at [Brookefields Mall](https://goo.gl/maps/QLGfy9XGrYt), Dinner at [Annapoorna Gowrishankar](https://goo.gl/maps/hz6cVJQvDa52)
+---
 
-### 🗓️ Day 2 – Sun, 7 Dec 2025 — Coimbatore → [Ooty](https://goo.gl/maps/B97RHbESKrG2)
+## 🗓️ Day 3 – Mon, 8 Dec 2025 — Ooty Scenic Circuit (9th Mile Added)
 
-* Morning: Visit [Marudamalai Temple](https://goo.gl/maps/g1QMgXnVLLn)
-* Drive to Ooty via [Mettupalayam](https://goo.gl/maps/Q3Ktv8Djq3T)
-* Check-in: [Accord Highland Ooty](https://goo.gl/maps/B97RHbESKrG2)
-* Evening: [Doddabetta Peak](https://goo.gl/maps/RpKWWAzsB6E2), [Tea Factory & Chocolate Museum](https://goo.gl/maps/jqoj2owuHep)
+| Time     | Activity                 | Location                                                                                                                                                                                                                        | Notes                       | If Missed |
+| -------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------- |
+| 8:30 AM  | Breakfast                | Accord Highland                                                                                                                                                                                                                 | Start early                 | —         |
+| 9:00 AM  | Glenmorgan Tea Estate    | [Glenmorgan Tea Estate](https://www.google.com/maps/search/?api=1&query=Glenmorgan+Tea+Estate+Ooty)                                                                                                                             | 45 min drive; scenic route  | ✅ (Day 7) |
+| 10:30 AM | 9th Mile (Shooting Medu) | [Wenlock Downs / 9th Mile](https://www.google.com/maps/place/Wenlock+Downs/@11.4280587,76.633501,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8a2cc28419acb:0x3198cdbd3606ece3!8m2!3d11.4274241!4d76.6369392!16s%2Fg%2F1q6j0jvbd?entry=ttu) | Vast meadows, film location | ✅         |
+| 12:00 PM | Pykara Lake              | [Pykara Lake](https://www.google.com/maps/search/?api=1&query=Pykara+Lake+Ooty)                                                                                                                                                 | Optional 20-min boating     | ✅         |
+| 2:00 PM  | Lunch (local dhaba)      | —                                                                                                                                                                                                                               | Simple veg meal near Pykara | ✅         |
+| 3:30 PM  | Return to Ooty           | —                                                                                                                                                                                                                               | Rest & baby nap             | —         |
+| 5:30 PM  | Tea Factory / Shopping   | Charring Cross Market                                                                                                                                                                                                           | Buy tea & chocolates        | ✅         |
+| 7:00 PM  | Dinner                   | Place to Bee / Hotel                                                                                                                                                                                                            | Local pizza or buffet       | ✅         |
 
-### 🗓️ Day 3 – Mon, 8 Dec 2025 — Ooty Scenic Drive
+---
 
-* [Glenmorgan Tea Estate](https://goo.gl/maps/KMC1pLviP8t)
-* [Wenlock Downs](https://goo.gl/maps/EnC2qP3UyFM2)
-* [Pykara Lake](https://goo.gl/maps/q9jh7BYB9ep)
-* [Needle Rock Viewpoint](https://goo.gl/maps/hHkQmQdD4U62)
+## 🗓️ Day 4 – Tue, 9 Dec 2025 — Ooty → Masinagudi (via Gudalur)
 
-### 🗓️ Day 4 – Tue, 9 Dec 2025 — Ooty → [Masinagudi](https://goo.gl/maps/xKr8r3Yftf92)
+| Time     | Activity                        | Location                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Notes                          | If Missed        |
+| -------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------------- |
+| 8:00 AM  | Breakfast & checkout            | Accord Highland                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | —                              | —                |
+| 9:00 AM  | Drive to Masinagudi via Gudalur | —                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Safer route for sedan          | —                |
+| 10:30 AM | Tea Break (roadside stop)       | —                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Enjoy forest-side views        | —                |
+| 11:45 AM | Needle Rock Viewpoint           | [Needle Rock Viewpoint](https://www.google.com/maps/search/?api=1&query=Needle+Rock+Viewpoint+Ooty)                                                                                                                                                                                                                                                                                                                                                                                                            | Visit on the way to Masinagudi | ✅ (return route) |
+| 12:30 PM | Arrive at Resort                | [The Nest Inn Masinagudi](https://www.google.com/maps/place/The+Nest+Inn+%7C+Resort+in+Masinagudi+%7C+Resort+Near+Muthumalai/@11.567173,76.6363543,17z/data=!3m1!4b1!4m9!3m8!1s0x3baafffff89051e3:0xa5e1ed10507bba4e!5m2!4m1!1i2!8m2!3d11.567173!4d76.6389292!16s%2Fg%2F124ycc9b0?entry=ttu)                                                                                                                                                                                                                   | Check-in, lunch & nap          | —                |
+| 3:30 PM  | Theppakadu Safari               | [Mudumalai Forest Safari Bus Terminal](https://www.google.com/maps/place/Mudhumalai+Forest+Safari+Bus+Terminal/@11.5802593,76.5804777,17z/data=!4m10!1m2!2m1!1smudumalai+thepaakadu+safari+centre!3m6!1s0x3ba8af64dd371303:0x5a0018e4c93dc66d!8m2!3d11.5811802!4d76.5821221!15sCiJtdWR1bWFsYWkgdGhlcHBha2FkdSBzYWZhcmkgY2VudHJlWiQiIm11ZHVtYWxhaSB0aGVwcGFrYWR1IHNhZmFyaSBjZW50cmWSARJ0b3VyaXN0X2F0dHJhY3Rpb26aASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUTNlV1l6YXpCUlJSQULgAQD6AQQIXRBF!16s%2Fg%2F1hg4sktnt?entry=ttu) | 1 hr forest bus safari         | ✅ (Day 5)        |
+| 6:30 PM  | Dinner & bonfire                | Resort                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Forest gate closes 7 PM        | —                |
 
-* Drive via [Gudalur](https://goo.gl/maps/xRHbUPkYEFw)
-* Safari: [Theppakadu Reception Centre](https://goo.gl/maps/WgHBuUt7g9J2)
-* Stay: [The Nest Inn Resort](https://goo.gl/maps/xKr8r3Yftf92)
+---
 
-### 🗓️ Day 5 – Wed, 10 Dec 2025 — [Bandipur Safari](https://goo.gl/maps/LNvJmQ7u8Sy) + [Gopalaswamy Betta](https://goo.gl/maps/Wx5tE6dJ7Vm)
+## 🗓️ Day 5 – Wed, 10 Dec 2025 — Bandipur Safari + Gopalaswamy Betta
 
-### 🗓️ Day 6 – Thu, 11 Dec 2025 — [Ooty Railway Station](https://goo.gl/maps/izfH8y4xGmT2) → [Coonoor Railway Station](https://goo.gl/maps/F2LGeJexXyo)
+| Time     | Activity                        | Location                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Notes                       | If Missed        |
+| -------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---------------- |
+| 6:00 AM  | Depart for Bandipur             | [Bandipur Safari Reception](https://www.google.com/maps/search/?api=1&query=Bandipur+Safari+Reception+Centre)                                                                                                                                                                                                                                                                                                                                                                             | Pre-book tickets            | ❌                |
+| 7:00 AM  | Safari (1 hr)                   | Bandipur National Park                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Bus or jeep                 | ✅ (Evening slot) |
+| 9:30 AM  | Breakfast                       | Bandipur Canteen                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Simple buffet               | ✅                |
+| 10:30 AM | Drive to Gopalaswamy Betta      | [Himavad Gopalaswamy Betta](https://www.google.com/maps/search/?api=1&query=Himavad+Gopalaswamy+Betta)                                                                                                                                                                                                                                                                                                                                                                                    | Hill temple & view          | ❌                |
+| 1:00 PM  | Return to Masinagudi            | —                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Lunch at resort             | —                |
+| 3:30 PM  | Optional Safari / Elephant Camp | [Theppakadu Camp](https://www.google.com/maps/place/Mudhumalai+Forest+Safari+Bus+Terminal/@11.5802593,76.5804777,17z/data=!4m10!1m2!2m1!1smudumalai+thepaakadu+safari+centre!3m6!1s0x3ba8af64dd371303:0x5a0018e4c93dc66d!8m2!3d11.5811802!4d76.5821221!15sCiJtdWR1bWFsYWkgdGhlcHBha2FkdSBzYWZhcmkgY2VudHJlWiQiIm11ZHVtYWxhaSB0aGVwcGFrYWR1IHNhZmFyaSBjZW50cmWSARJ0b3VyaXN0X2F0dHJhY3Rpb26aASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUTNlV1l6YXpCUlJSQULgAQD6AQQIXRBF!16s%2Fg%2F1hg4sktnt?entry=ttu) | Elephant feeding time ~5 PM | ✅ (Day 4)        |
+| 7:00 PM  | Dinner & Rest                   | The Nest Inn                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | —                           | —                |
 
-* [Sim’s Park](https://goo.gl/maps/gZBnsFJ9Hps), [La Belle Vie](https://goo.gl/maps/SbY8eSojPAG2), [The Culinarium](https://goo.gl/maps/HFtbDdGzZkK2)
+---
 
-### 🗓️ Day 7 – Fri, 12 Dec 2025 — [Avalanche Lake](https://goo.gl/maps/KGxUpEGmj862) + [Emerald Lake](https://goo.gl/maps/TbAewf3ED9t) + [Glenmorgan](https://goo.gl/maps/KMC1pLviP8t)
+## 🗓️ Day 6 – Thu, 11 Dec 2025 — Avalanche, Emerald & Glenmorgan
 
-### 🗓️ Day 8 – Sat, 13 Dec 2025 — [Botanical Garden](https://goo.gl/maps/VeqmYBeCVu32) + [Charring Cross Market](https://goo.gl/maps/VeqmYBeCVu32) + [Ooty Boat House](https://goo.gl/maps/GhrSTFvbfhC2)
+| Time     | Activity                      | Location                                                                                                           | Notes           | If Missed             |
+| -------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------- | --------------------- |
+| 8:30 AM  | Breakfast                     | Mango Hill Shola                                                                                                   | —               | —                     |
+| 9:00 AM  | Drive to Avalanche Check Post | [Avalanche Lake Forest Check Post](https://www.google.com/maps/search/?api=1&query=Avalanche+Lake+Check+Post+Ooty) | 1 hr drive      | ❌                     |
+| 9:30 AM  | Jeep Safari                   | Forest Department                                                                                                  | 2 hr loop       | ❌                     |
+| 12:00 PM | Lunch                         | [Red Hills Nature Resort](https://www.google.com/maps/search/?api=1&query=Red+Hills+Nature+Resort+Ooty)            | Pre-book lunch  | ✅ (carry packed food) |
+| 2:00 PM  | Visit Emerald Lake            | [Emerald Lake](https://www.google.com/maps/search/?api=1&query=Emerald+Lake+Ooty)                                  | Short walk      | ✅                     |
+| 3:30 PM  | Glenmorgan Estate             | [Glenmorgan Tea Estate](https://www.google.com/maps/search/?api=1&query=Glenmorgan+Tea+Estate+Ooty)                | Picnic & photos | ✅ (Day 8)             |
+| 6:00 PM  | Return to Ooty                | —                                                                                                                  | Relax           | —                     |
+| 7:00 PM  | Dinner                        | Mango Hill Shola                                                                                                   | —               | —                     |
 
-### 🗓️ Day 9 – Sun, 14 Dec 2025 — Drive back to [Chennai](https://goo.gl/maps/qx5LuNRhDkG2)
+---
 
-[⬆️ Back to Short Itinerary Overview](#-short-itinerary-overview)
+## 🗓️ Day 7 – Fri, 12 Dec 2025 — Toy Train to Coonoor + Leisure
+
+| Time     | Activity                       | Location                                                                                           | Notes                             | If Missed             |
+| -------- | ------------------------------ | -------------------------------------------------------------------------------------------------- | --------------------------------- | --------------------- |
+| 8:30 AM  | Breakfast                      | Mango Hill Shola                                                                                   | —                                 | —                     |
+| 9:30 AM  | Depart to Ooty Railway Station | [Ooty Railway Station](https://www.google.com/maps/search/?api=1&query=Ooty+Railway+Station)       | Park near station                 | ❌                     |
+| 10:30 AM | Board Toy Train to Coonoor     | Nilgiri Mountain Railway                                                                           | Train No. 56139, scenic 1 hr ride | ✅ (drive alternative) |
+| 11:30 AM | Arrive in Coonoor              | [Coonoor Railway Station](https://www.google.com/maps/search/?api=1&query=Coonoor+Railway+Station) | —                                 | —                     |
+| 12:00 PM | Visit Sim’s Park               | [Sim’s Park](https://www.google.com/maps/search/?api=1&query=Sims+Park+Coonoor)                    | Stroller-friendly                 | ✅                     |
+| 1:30 PM  | Lunch                          | [La Belle Vie](https://www.google.com/maps/search/?api=1&query=La+Belle+Vie+Coonoor)               | Garden view restaurant            | ✅ (The Culinarium)    |
+| 3:00 PM  | Explore Dolphin’s Nose         | [Dolphin’s Nose Viewpoint](https://www.google.com/maps/search/?api=1&query=Dolphin’s+Nose+Coonoor) | 45 min drive                      | ✅                     |
+| 5:00 PM  | Return drive to Ooty           | —                                                                                                  | Scenic route back                 | —                     |
+| 6:30 PM  | Tea / Relax                    | Mango Hill Shola                                                                                   | —                                 | —                     |
+| 7:30 PM  | Dinner                         | Hotel restaurant                                                                                   | —                                 | —                     |
+
+---
+
+## 🗓️ Day 8 – Sat, 13 Dec 2025 — Rest & Shopping
+
+| Time     | Activity                       | Location                                                                                                  | Notes                 | If Missed   |
+| -------- | ------------------------------ | --------------------------------------------------------------------------------------------------------- | --------------------- | ----------- |
+| 9:00 AM  | Breakfast                      | Hotel                                                                                                     | Late start            | —           |
+| 10:00 AM | Visit Botanical Garden         | [Ooty Botanical Garden](https://www.google.com/maps/search/?api=1&query=Government+Botanical+Garden+Ooty) | Easy stroller walk    | ✅ (evening) |
+| 12:00 PM | Shopping                       | Charring Cross / Tibetan Market                                                                           | Tea, oils, chocolates | —           |
+| 1:30 PM  | Lunch                          | Place to Bee / Ascot Multi Cuisine                                                                        | Family-friendly       | ✅           |
+| 3:00 PM  | Nap & pack                     | Mango Hill Shola                                                                                          | —                     | —           |
+| 5:00 PM  | Ooty Lake / Doddabetta revisit | [Ooty Boat House](https://www.google.com/maps/search/?api=1&query=Ooty+Boat+House)                        | Optional              | ✅           |
+| 7:00 PM  | Dinner & prep for return       | Mango Hill Shola                                                                                          | —                     | —           |
+
+---
+
+## 🗓️ Day 9 – Sun, 14 Dec 2025 — Drive Back to Chennai
+
+| Time    | Activity          | Location         | Notes         | If Missed |
+| ------- | ----------------- | ---------------- | ------------- | --------- |
+| 7:00 AM | Checkout & depart | Mango Hill Shola | Early descent | —         |
+| 8:30 AM | Breakfast         | Mettupalayam A2B | Good stop     | ✅         |
+| 1:00 PM | Lunch             | Salem A2B        | —             | —         |
+| 5:30 PM | Reach Chennai     | —                | Trip ends     | —         |
