@@ -1,11 +1,3 @@
-Let's reorder the Ooty segment as requested:
-
-* Move the Toy Train experience from Day 6 to Day 7 (so it's not on a travel day).
-* Swap Day 6 and Day 7 for smoother pacing.
-
----
-
-Here’s your **updated super-detailed Ooty–Bandipur itinerary (Dec 6–14, 2025)** in table format, with corrected map links, adjusted sightseeing order (9th Mile added, Needle Rock moved), and verified location URLs.
 
 ---
 
